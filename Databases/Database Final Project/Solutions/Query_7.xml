@@ -1,0 +1,352 @@
+<DATA>
+
+	<ROW>
+		<vehicle_id>1</vehicle_id>
+		<year>2003</year>
+		<make>honda</make>
+		<model>accord</model>
+		<mileage>120385</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>30</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>2</vehicle_id>
+		<year>1992</year>
+		<make>honda</make>
+		<model>civic</model>
+		<mileage>162978</mileage>
+		<assoc_orders>2</assoc_orders>
+		<total_cost>60</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>3</vehicle_id>
+		<year>1986</year>
+		<make>honda</make>
+		<model>crv</model>
+		<mileage>79445</mileage>
+		<assoc_orders>2</assoc_orders>
+		<total_cost>785</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>4</vehicle_id>
+		<year>2008</year>
+		<make>ford</make>
+		<model>focus</model>
+		<mileage>98647</mileage>
+		<assoc_orders>5</assoc_orders>
+		<total_cost>362.5</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>5</vehicle_id>
+		<year>1998</year>
+		<make>ford</make>
+		<model>focus</model>
+		<mileage>191162</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>165</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>6</vehicle_id>
+		<year>2006</year>
+		<make>ford</make>
+		<model>escape</model>
+		<mileage>171553</mileage>
+		<assoc_orders>2</assoc_orders>
+		<total_cost>49.989999999999995</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>7</vehicle_id>
+		<year>2005</year>
+		<make>ford</make>
+		<model>escape</model>
+		<mileage>125803</mileage>
+		<assoc_orders>4</assoc_orders>
+		<total_cost>308</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>8</vehicle_id>
+		<year>1997</year>
+		<make>ford</make>
+		<model>fusion</model>
+		<mileage>142807</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>599</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>9</vehicle_id>
+		<year>2000</year>
+		<make>toyota</make>
+		<model>camry</model>
+		<mileage>146976</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>98.5</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>10</vehicle_id>
+		<year>2006</year>
+		<make>toyota</make>
+		<model>camry</model>
+		<mileage>194943</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>19.99</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>11</vehicle_id>
+		<year>2011</year>
+		<make>toyota</make>
+		<model>rav-4</model>
+		<mileage>85159</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>510</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>12</vehicle_id>
+		<year>1998</year>
+		<make>toyota</make>
+		<model>corolla</model>
+		<mileage>75659</mileage>
+		<assoc_orders>4</assoc_orders>
+		<total_cost>138</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>13</vehicle_id>
+		<year>2005</year>
+		<make>toyota</make>
+		<model>corolla</model>
+		<mileage>44870</mileage>
+		<assoc_orders>2</assoc_orders>
+		<total_cost>885</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>14</vehicle_id>
+		<year>2001</year>
+		<make>toyota</make>
+		<model>4runner</model>
+		<mileage>61495</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>67.5</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>15</vehicle_id>
+		<year>1997</year>
+		<make>vw</make>
+		<model>jetta</model>
+		<mileage>107870</mileage>
+		<assoc_orders>3</assoc_orders>
+		<total_cost>345</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>16</vehicle_id>
+		<year>1993</year>
+		<make>vw</make>
+		<model>jetta</model>
+		<mileage>80989</mileage>
+		<assoc_orders>2</assoc_orders>
+		<total_cost>60</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>17</vehicle_id>
+		<year>2006</year>
+		<make>vw</make>
+		<model>jetta</model>
+		<mileage>150142</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>30</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>18</vehicle_id>
+		<year>1993</year>
+		<make>vw</make>
+		<model>golf</model>
+		<mileage>126333</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>755</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>19</vehicle_id>
+		<year>1992</year>
+		<make>vw</make>
+		<model>golf</model>
+		<mileage>67367</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>30</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>20</vehicle_id>
+		<year>1987</year>
+		<make>vw</make>
+		<model>golf</model>
+		<mileage>168569</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>925</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>21</vehicle_id>
+		<year>2008</year>
+		<make>nissan</make>
+		<model>altima</model>
+		<mileage>51211</mileage>
+		<assoc_orders>4</assoc_orders>
+		<total_cost>969.5</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>22</vehicle_id>
+		<year>2012</year>
+		<make>nissan</make>
+		<model>altima</model>
+		<mileage>181628</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>30</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>23</vehicle_id>
+		<year>2001</year>
+		<make>nissan</make>
+		<model>maxima</model>
+		<mileage>166063</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>165</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>24</vehicle_id>
+		<year>2014</year>
+		<make>nissan</make>
+		<model>versa</model>
+		<mileage>168881</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>19.99</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>25</vehicle_id>
+		<year>1986</year>
+		<make>nissan</make>
+		<model>sentra</model>
+		<mileage>48304</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>19.99</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>26</vehicle_id>
+		<year>1993</year>
+		<make>nissan</make>
+		<model>sentra</model>
+		<mileage>148489</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>79</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>27</vehicle_id>
+		<year>1991</year>
+		<make>nissan</make>
+		<model>cube</model>
+		<mileage>83647</mileage>
+		<assoc_orders>2</assoc_orders>
+		<total_cost>629</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>28</vehicle_id>
+		<year>1989</year>
+		<make>nissan</make>
+		<model>altima</model>
+		<mileage>15352</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>47.5</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>29</vehicle_id>
+		<year>1992</year>
+		<make>volvo</make>
+		<model>xc90</model>
+		<mileage>4235</mileage>
+		<assoc_orders>8</assoc_orders>
+		<total_cost>1028.49</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>30</vehicle_id>
+		<year>2012</year>
+		<make>volvo</make>
+		<model>xc60</model>
+		<mileage>82366</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>10</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>31</vehicle_id>
+		<year>1993</year>
+		<make>mitsubishi</make>
+		<model>eclipse</model>
+		<mileage>61601</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>30</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>32</vehicle_id>
+		<year>2007</year>
+		<make>mitsubishi</make>
+		<model>endeavor</model>
+		<mileage>1273</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>30</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>33</vehicle_id>
+		<year>2003</year>
+		<make>mitsubishi</make>
+		<model>endeavor</model>
+		<mileage>12010</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>30</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>34</vehicle_id>
+		<year>2004</year>
+		<make>mitsubishi</make>
+		<model>endeavor</model>
+		<mileage>199848</mileage>
+		<assoc_orders>2</assoc_orders>
+		<total_cost>109</total_cost>
+	</ROW>
+
+	<ROW>
+		<vehicle_id>35</vehicle_id>
+		<year>2011</year>
+		<make>mitsubishi</make>
+		<model>outlander</model>
+		<mileage>26314</mileage>
+		<assoc_orders>1</assoc_orders>
+		<total_cost>150</total_cost>
+	</ROW>
+</DATA>
