@@ -1,9 +1,9 @@
 <DATA>
 
 	<ROW>
-		<customer_id>1</customer_id>
-		<first_name>Uma</first_name>
-		<last_name>Kline</last_name>
-		<total_cost>32.5</total_cost>
+		<customer_id>14</customer_id>
+		<first_name>Ora</first_name>
+		<last_name>Huber</last_name>
+		<MAX(total_cost)>925</MAX(total_cost)>
 	</ROW>
 </DATA>
